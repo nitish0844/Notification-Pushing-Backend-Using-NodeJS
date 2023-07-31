@@ -39,6 +39,7 @@ const main = async () => {
   const notificationPayload = {
     title: "Hii Students",
     body: "New Course Arrived",
+    imageUrl: "https://wallpaperaccess.com/full/393752.jpg",
   };
 
   const response = await sendNotification(fcmTokens, notificationPayload);
