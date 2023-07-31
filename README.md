@@ -5,3 +5,7 @@ Add the JSON File from the firebase
 2. open the Service account Tab
 3. Click "Generte New Private Key" button
 4. Then Json file will be downloaded
+
+
+
+Add the gitignore file using "touch .gitignore" code
